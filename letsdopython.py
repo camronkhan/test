@@ -1,4 +1,4 @@
-x = 10
+x = 1
 
 def hello_world(num):
   for i in range(num):
